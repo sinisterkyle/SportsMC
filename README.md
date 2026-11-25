@@ -1,2 +1,4 @@
 # SportsMC
-Adds playable football and tennis matches to your world. PLAY WITH FRIENDS ON A SERVER! PRESS [M] IN GAME
+1.20.1 Forge Mod author xky9kx and Co Developer AllenPlays
+
+Mods developed are for a modpack Sinister Zombies, no license, for the Online Multiplayer Apocalypse Server >> IP: SinisterPrison.net 
